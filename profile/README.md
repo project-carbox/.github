@@ -1,6 +1,6 @@
 <div align="center">
-  <a href="https://project-carbox.github.io/carbox.github.io/">
-    <img src="https://raw.githubusercontent.com/project-carbox/carbox.github.io/main/assets/carbox_logo.svg" alt="Carbox Logo" width="160"/>
+  <a href="https://project-carbox.github.io/">
+    <img src="https://raw.githubusercontent.com/project-carbox/project-carbox.github.io/main/assets/carbox_logo.svg" alt="Carbox Logo" width="160"/>
   </a>
   <br/><br/>
 
@@ -10,7 +10,7 @@
   </p>
 
   <p align="center">
-    <a href="https://project-carbox.github.io/carbox.github.io/"><img src="https://img.shields.io/badge/Live_Portal-project--carbox.github.io-00e5ff?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Live Showcase"/></a>
+    <a href="https://project-carbox.github.io/"><img src="https://img.shields.io/badge/Live_Portal-project--carbox.github.io-00e5ff?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Live Showcase"/></a>
     <a href="https://carboxmol.github.io"><img src="https://img.shields.io/badge/3D_Studio-carboxmol.github.io-10b981?style=for-the-badge&logo=webgl&logoColor=white" alt="CarboxMol Studio"/></a>
     <a href="mailto:suleyman.hacizade1@gmail.com?subject=Private%20Data%20%26%20Repository%20Access%20Request%20-%20Project%20Carbox"><img src="https://img.shields.io/badge/Private_Data_Access-Request_via_Email-dc2626?style=for-the-badge&logo=gmail&logoColor=white" alt="Request Access"/></a>
     <a href="mailto:suleyman.hacizade1@gmail.com"><img src="https://img.shields.io/badge/Contact-suleyman.hacizade1%40gmail.com-7c3aed?style=for-the-badge&logo=gmail&logoColor=white" alt="Contact"/></a>
@@ -54,8 +54,8 @@ project-carbox
 │   ├── Persistent LLM Research Wiki (19+ interlinked notes) & LaTeX manuscripts
 │   └── 📩 Request Access: suleyman.hacizade1@gmail.com
 │
-└── 🌐 carbox.github.io (Public Interactive Showcase Portal)
-    ├── 🌟 Live URL: https://project-carbox.github.io/carbox.github.io/
+└── 🌐 project-carbox.github.io (Public Interactive Showcase Portal)
+    ├── 🌟 Live URL: https://project-carbox.github.io/
     ├── Interactive 4-Stage Methodology stepper (Prof. Garib N Murshudov's protocol)
     ├── In-browser 3Dmol.js WebGL molecular viewer (1KZK, 1OEW, 2DSX, 1FKN)
     ├── Searchable & filterable 10–20 Golden Benchmarks calibration table
