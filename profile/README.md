@@ -48,7 +48,7 @@
 
 ## 🏛️ Organization Architecture & Data Governance
 
-To uphold scientific rigor and protect sensitive pre-publication crystallographic datasets, **Project Carbox** is partitioned into two dedicated repositories:
+To uphold scientific rigor and protect sensitive pre-publication crystallographic datasets, **Project Carbox** is partitioned into structured repositories:
 
 ```text
 project-carbox
@@ -60,15 +60,19 @@ project-carbox
 │   ├── Clean-room empirical pKa perturbation solver (ΔpKa ≥ +2.0) & 70-cation metal audit
 │   ├── Full 7,230-structure screening tables, validation CSVs, and REFMAC5/Servalcat restraints
 │   ├── Persistent LLM Research Wiki (19+ interlinked notes) & LaTeX manuscripts
-│   ├── 📖 Read the Docs: https://project-carbox.readthedocs.io/en/latest/
 │   └── 📩 Request Access: suleyman.hacizade1@gmail.com
+│
+├── 📖 carbox-docs (Public Official Documentation Repository)
+│   ├── Hosts Sphinx source files & .readthedocs.yaml for Read the Docs
+│   ├── 🌐 Live Docs: https://project-carbox.readthedocs.io/en/latest/
+│   ├── Trilingual manuals (EN, AZ, HE) & crystallographic validation memoranda
+│   └── Auto-synced from private core engine via GitHub Actions
 │
 └── 🌐 project-carbox.github.io (Public Interactive Showcase Portal)
     ├── 🌟 Live URL: https://project-carbox.github.io/
     ├── Interactive 4-Stage Methodology stepper (Prof. Garib N Murshudov's protocol)
     ├── In-browser 3Dmol.js WebGL molecular viewer (1KZK, 1OEW, 2DSX, 1FKN)
     ├── Searchable & filterable 10–20 Golden Benchmarks calibration table
-    ├── 📖 Read the Docs Integration: https://project-carbox.readthedocs.io/en/latest/
     └── Public citation records (BibTeX) and documentation overview
 ```
 
