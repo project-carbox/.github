@@ -19,6 +19,7 @@
 
   <p align="center">
     <img src="https://img.shields.io/badge/Crystallography-MRC--LMB_&_IMB-0284c7?style=flat-square" alt="MRC-LMB & IMB"/>
+    <img src="https://img.shields.io/badge/Location-Baku,_Azerbaijan_•_Cambridge,_UK-0284c7?style=flat-square" alt="Baku, Azerbaijan • Cambridge, UK"/>
     <img src="https://img.shields.io/badge/PDB_Screened-7,230_Structures_(≤1.20_Å)-6366f1?style=flat-square" alt="7,230 Structures"/>
     <img src="https://img.shields.io/badge/Validated_Benchmarks-67_Golden_LBHBs-10b981?style=flat-square" alt="67 Benchmarks"/>
     <img src="https://img.shields.io/badge/Quality_Control-Tukey_IQR_+_Fisher_Z_RSCC-f59e0b?style=flat-square" alt="Tukey IQR + Fisher Z"/>
@@ -102,8 +103,10 @@ In standard macromolecular crystallography, side-chain carboxylates (Asp, Glu) i
   *Western Caspian University, Baku, Azerbaijan*
 - **Scientific Advisor & Co-Author:** Garib N Murshudov  
   *MRC Laboratory of Molecular Biology (LMB), Cambridge Biomedical Campus, Cambridge, United Kingdom*
-- **Data & Repository Access Requests:** 📧 **[suleyman.hacizade1@gmail.com](mailto:suleyman.hacizade1@gmail.com?subject=Access%20Request%20-%20Project%20Carbox%20Private%20Data)**
 - **Locations:** Baku, Azerbaijan · Cambridge, United Kingdom
+- **Documentation (Read the Docs):** 📖 **[https://project-carbox.readthedocs.io/en/latest/](https://project-carbox.readthedocs.io/en/latest/)**
+- **Public Interactive Portal:** 🌐 **[https://project-carbox.github.io/](https://project-carbox.github.io/)**
+- **Data & Repository Access Requests:** 📧 **[suleyman.hacizade1@gmail.com](mailto:suleyman.hacizade1@gmail.com?subject=Access%20Request%20-%20Project%20Carbox%20Private%20Data)**
 
 ---
 
