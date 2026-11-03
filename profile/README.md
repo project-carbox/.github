@@ -37,6 +37,12 @@
 > **How to Request Access / Giriş üçün Müraciət:** If you are a researcher, academic reviewer, or collaborator and wish to request access to the private core repository or raw research datasets, please apply via email (Əgər tədqiqat məlumatlarına və ya qapalı repozitoriyaya giriş əldə etmək istəyirsinizsə, elektron poçt vasitəsilə müraciət edə bilərsiniz):  
 > 📧 **[suleyman.hacizade1@gmail.com](mailto:suleyman.hacizade1@gmail.com?subject=Access%20Request%20-%20Project%20Carbox%20Private%20Data%20%26%20Repository)**
 
+> [!TIP]
+> ### 📖 Rəsmi Sənədləşmə Portalı (Read the Docs)
+> **Bütün elmi təlimatlar, REFMAC5/Servalcat restraints qaydaları, kristalloqrafik memorandiumlar və API sənədləşməsi Read the Docs-da aktivdir:**  
+> 🌐 **[https://project-carbox.readthedocs.io/en/latest/](https://project-carbox.readthedocs.io/en/latest/)**  
+> *(Üçdilli tam dəstək: English `en`, Azərbaycan dili `az`, עברית `he`)*
+
 ---
 
 ## 🏛️ Organization Architecture & Data Governance
