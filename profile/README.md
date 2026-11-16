@@ -1,119 +1,72 @@
-<div align="center">
-  <a href="https://project-carbox.github.io/">
-    <img src="https://raw.githubusercontent.com/project-carbox/project-carbox.github.io/main/assets/carbox_logo.svg" alt="Carbox Logo" width="160"/>
-  </a>
-  <br/><br/>
+# Project Carbox
 
-  <h1>Welcome to Project Carbox ⚛️🧬</h1>
-  <p align="center">
-    <strong>High-Throughput Macromolecular Crystallographic Validation, Anomalous Carboxyl Protonation &amp; Low-Barrier Hydrogen Bond (LBHB) Discovery Platform</strong>
-  </p>
+**Macromolecular Crystallographic Validation, Anomalous Carboxyl Protonation, and Low-Barrier Hydrogen Bond (LBHB) Analysis**
 
-  <p align="center">
-    <a href="https://project-carbox.github.io/"><img src="https://img.shields.io/badge/Live_Portal-project--carbox.github.io-00e5ff?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Live Showcase"/></a>
-    <a href="https://project-carbox.readthedocs.io/en/latest/"><img src="https://img.shields.io/badge/Docs-Read_the_Docs-0284c7?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Read the Docs"/></a>
-    <a href="https://carboxmol.github.io"><img src="https://img.shields.io/badge/3D_Studio-carboxmol.github.io-10b981?style=for-the-badge&logo=webgl&logoColor=white" alt="CarboxMol Studio"/></a>
-    <a href="mailto:suleyman.hacizade1@gmail.com?subject=Private%20Data%20%26%20Repository%20Access%20Request%20-%20Project%20Carbox"><img src="https://img.shields.io/badge/Private_Data_Access-Request_via_Email-dc2626?style=for-the-badge&logo=gmail&logoColor=white" alt="Request Access"/></a>
-    <a href="mailto:suleyman.hacizade1@gmail.com"><img src="https://img.shields.io/badge/Contact-suleyman.hacizade1%40gmail.com-7c3aed?style=for-the-badge&logo=gmail&logoColor=white" alt="Contact"/></a>
-  </p>
-
-  <p align="center">
-    <img src="https://img.shields.io/badge/Crystallography-MRC--LMB_&_IMB-0284c7?style=flat-square" alt="MRC-LMB & IMB"/>
-    <img src="https://img.shields.io/badge/Location-Baku,_Azerbaijan_•_Cambridge,_UK-0284c7?style=flat-square" alt="Baku, Azerbaijan • Cambridge, UK"/>
-    <img src="https://img.shields.io/badge/PDB_Screened-7,230_Structures_(≤1.20_Å)-6366f1?style=flat-square" alt="7,230 Structures"/>
-    <img src="https://img.shields.io/badge/Validated_Benchmarks-67_Golden_LBHBs-10b981?style=flat-square" alt="67 Benchmarks"/>
-    <img src="https://img.shields.io/badge/Quality_Control-Tukey_IQR_+_Fisher_Z_RSCC-f59e0b?style=flat-square" alt="Tukey IQR + Fisher Z"/>
-    <img src="https://img.shields.io/badge/Version-v0.4.5-ec4899?style=flat-square" alt="v0.4.5"/>
-  </p>
-</div>
+- Web Portal: [https://project-carbox.github.io/](https://project-carbox.github.io/)
+- Documentation: [https://project-carbox.readthedocs.io/en/latest/](https://project-carbox.readthedocs.io/en/latest/)
+- 3D Workbench: [https://carboxmol.github.io](https://carboxmol.github.io)
+- Contact: [suleyman.hacizade1@gmail.com](mailto:suleyman.hacizade1@gmail.com)
 
 ---
 
-> [!IMPORTANT]
-> ### 🔒 Private Data & Repository Access Notice (Məxfi Məlumatlar və Giriş İcazəsi)
-> **English:** All raw crystallographic datasets, full 7,230-PDB screening matrices, complete $2mF_o - DF_c$ and $mF_o - DF_c$ electron density correlation profiles, backend computational pipelines (`carbox`), persistent LLM research wiki notes, and pre-publication LaTeX manuscripts housed in **`project-carbox/carbox`** are **strictly private**.
->
-> **Azərbaycanca:** Bu təşkilatdakı bütün xam kristalloqrafik məlumat bazaları, 7,230 PDB strukturu üzrə tam skrininq matrisaları, elektron sıxlığı korrelyasiya xəritələri, əsas hesablama boru xətləri (`carbox`), elmi dissertasiya/məqalə əlyazmaları və daxili bilik bazası **məxfidir (private)**.
->
-> **How to Request Access / Giriş üçün Müraciət:** If you are a researcher, academic reviewer, or collaborator and wish to request access to the private core repository or raw research datasets, please apply via email (Əgər tədqiqat məlumatlarına və ya qapalı repozitoriyaya giriş əldə etmək istəyirsinizsə, elektron poçt vasitəsilə müraciət edə bilərsiniz):  
-> 📧 **[suleyman.hacizade1@gmail.com](mailto:suleyman.hacizade1@gmail.com?subject=Access%20Request%20-%20Project%20Carbox%20Private%20Data%20%26%20Repository)**
+## Private Data and Repository Access Notice
 
-> [!TIP]
-> ### 📖 Rəsmi Sənədləşmə Portalı (Read the Docs)
-> **Bütün elmi təlimatlar, REFMAC5/Servalcat restraints qaydaları, kristalloqrafik memorandiumlar və API sənədləşməsi Read the Docs-da aktivdir:**  
-> 🌐 **[https://project-carbox.readthedocs.io/en/latest/](https://project-carbox.readthedocs.io/en/latest/)**  
-> *(Üçdilli tam dəstək: English `en`, Azərbaycan dili `az`, עברית `he`)*
+**English:** All raw crystallographic datasets, 7,230-PDB screening matrices, $2mF_o - DF_c$ and $mF_o - DF_c$ electron density correlation profiles, backend computational pipelines (`carbox`), research notes, and pre-publication manuscripts in `project-carbox/carbox` are private.
+
+**Azərbaycanca:** Bu təşkilatdakı bütün xam kristalloqrafik məlumat bazaları, 7,230 PDB strukturu üzrə tam skrininq matrisaları, elektron sıxlığı korrelyasiya xəritələri, əsas hesablama boru xətləri (`carbox`) və elmi əlyazmalar məxfidir (private).
+
+**Access Requests:** Researchers, academic reviewers, and collaborators wishing to request access to the private core repository or raw datasets may contact:  
+**[suleyman.hacizade1@gmail.com](mailto:suleyman.hacizade1@gmail.com?subject=Access%20Request%20-%20Project%20Carbox%20Private%20Data%20%26%20Repository)**
 
 ---
 
-## 🏛️ Organization Architecture & Data Governance
+## Official Documentation (Read the Docs)
 
-To uphold scientific rigor and protect sensitive pre-publication crystallographic datasets, **Project Carbox** is partitioned into structured repositories:
+Scientific guides, REFMAC5 and Servalcat restraint specifications, crystallographic validation memoranda, and API documentation are published on Read the Docs:
 
-```text
-project-carbox
-│
-├── 🔒 carbox (Private Core Backend & Research Engine — Access by Request)
-│   ├── High-throughput Euclidean contact mining engine (Asp/Glu d(O···O) ≤ 3.20 Å)
-│   ├── Non-parametric Tukey IQR B-factor outlier filter (Q3 + α·IQR, α ∈ {1.5, 3.0})
-│   ├── Real-Space Correlation Coefficient (RSCC) & Fisher z-transformation via Gemmi
-│   ├── Clean-room empirical pKa perturbation solver (ΔpKa ≥ +2.0) & 70-cation metal audit
-│   ├── Full 7,230-structure screening tables, validation CSVs, and REFMAC5/Servalcat restraints
-│   ├── Persistent LLM Research Wiki (19+ interlinked notes) & LaTeX manuscripts
-│   └── 📩 Request Access: suleyman.hacizade1@gmail.com
-│
-├── 📖 carbox-docs (Public Official Documentation Repository)
-│   ├── Hosts Sphinx source files & .readthedocs.yaml for Read the Docs
-│   ├── 🌐 Live Docs: https://project-carbox.readthedocs.io/en/latest/
-│   ├── Trilingual manuals (EN, AZ, HE) & crystallographic validation memoranda
-│   └── Auto-synced from private core engine via GitHub Actions
-│
-└── 🌐 project-carbox.github.io (Public Interactive Showcase Portal)
-    ├── 🌟 Live URL: https://project-carbox.github.io/
-    ├── Interactive 4-Stage Methodology stepper (Prof. Garib N Murshudov's protocol)
-    ├── In-browser 3Dmol.js WebGL molecular viewer (1KZK, 1OEW, 2DSX, 1FKN)
-    ├── Searchable & filterable 10–20 Golden Benchmarks calibration table
-    └── Public citation records (BibTeX) and documentation overview
-```
+- [https://project-carbox.readthedocs.io/en/latest/](https://project-carbox.readthedocs.io/en/latest/) (English `en`, Azerbaijani `az`, Hebrew `he`)
 
 ---
 
-## 🔬 Scientific Mission & The 4-Stage Protocol
+## Organization Repositories
 
-In standard macromolecular crystallography, side-chain carboxylates (Asp, Glu) in flexible loops can be artificially refined into close proximity ($d \le 2.50\text{ \AA}$) without supporting electron density.
+| Repository | Visibility | Description | Link |
+| :--- | :--- | :--- | :--- |
+| [**carbox**](https://github.com/project-carbox/carbox) | Private (By Request) | Euclidean contact mining ($d(\mathrm{O}\cdots\mathrm{O}) \le 3.20\text{ \AA}$), Tukey IQR B-factor filter, Fisher $z$-transformed RSCC validation, empirical pKa solver, and 70-cation metal coordination audit. | [Request Access](mailto:suleyman.hacizade1@gmail.com?subject=Access%20Request%20-%20Project%20Carbox%20Private%20Repository) |
+| [**carbox-docs**](https://github.com/project-carbox/carbox-docs) | Public | Sphinx documentation sources and multilingual crystallographic validation manuals for Read the Docs. | [GitHub](https://github.com/project-carbox/carbox-docs) · [Read the Docs](https://project-carbox.readthedocs.io/en/latest/) |
+| [**project-carbox.github.io**](https://github.com/project-carbox/project-carbox.github.io) | Public | Public web portal presenting the 4-stage validation methodology, interactive 3D structure viewer, and benchmark tables. | [project-carbox.github.io](https://project-carbox.github.io/) |
+
+---
+
+## Methodology Overview
+
+In macromolecular crystallography, side-chain carboxylates (Asp, Glu) in flexible surface loops can be refined into close proximity ($d \le 2.50\text{ \AA}$) without supporting experimental electron density.
 
 > *"If there is no electron density for atoms, they are mismodeled. If atoms are mismodeled, the distance between them is completely meaningless."*  
-> — **Prof. Garib N Murshudov** (*MRC Laboratory of Molecular Biology, Cambridge*)
+> — Prof. Garib N. Murshudov, MRC Laboratory of Molecular Biology, Cambridge
 
-**Carbox** solves this false-positive hazard via a 4-stage validation gate:
-1. **Stage 1 — Geometric Contact Mining & Solvent Burial:** Extracts inter-residue Asp/Glu pairs with $d(O_i, O_j) \le 3.20\text{ \AA}$ (ultra-short LBHB regime $\le 2.55\text{ \AA}$) and evaluates dielectric shielding via nearest water exclusion ($d_{\text{water}} > 3.00\text{ \AA}$, $\varepsilon \approx 2\text{--}4$).
-2. **Stage 2 — Non-Parametric B-Factor & Electron Density Pruning:** Eliminates thermally disordered loops using **Tukey IQR fences** ($B > Q_3 + \alpha \cdot \text{IQR}$) and verifies direct experimental density agreement using **Fisher $z$-transformed RSCC** ($z = \frac{1}{2}\ln\frac{1+\text{CC}'}{1-\text{CC}'}$, $Z_{\text{score}} \ge -3.0$), alongside a 70-metal coordination screen.
-3. **Stage 3 — Biochemical Protonation Verification (PROPKA):** Confirms thermodynamic proton trapping at physiological pH via upward $\text{p}K_a$ shifts ($\Delta \text{p}K_a \ge +2.0$, local $\text{p}K_a \ge 6.5\text{--}10.2$).
-4. **Stage 4 — The 10–20 Golden Benchmarks Calibration:** Manual verification against celebrated atomic-resolution structures (**`1KZK`** HIV-1 Protease, **`1OEW`** Endothiapepsin, **`2DSX`** Rubredoxin, **`1FKN`** BACE-1, **`4ZM7`** Aminopeptidase) prior to global PDB scaling.
+Carbox addresses false-positive short contacts through a four-stage validation protocol:
 
----
-
-## 🔗 Companion Ecosystem
-
-- 🖥️ **[CarboxMol Organization (`github.com/carboxmol`)](https://github.com/carboxmol):** The 3D macromolecular crystallography workbench, desktop GUI, CLI, and Progressive Web App (PWA) Studio.
-- 🌐 **[CarboxMol Live Web Studio (`carboxmol.github.io`)](https://carboxmol.github.io):** Interactive 3D crystallographic modeling and real-time electron density contouring in any browser.
+1. **Stage 1 — Geometric Contact Mining and Solvent Burial:** Extracts inter-residue Asp/Glu oxygen pairs with $d(\mathrm{O}_i, \mathrm{O}_j) \le 3.20\text{ \AA}$ (short LBHB regime $\le 2.55\text{ \AA}$) and evaluates dielectric shielding via nearest water exclusion ($d_{\text{water}} > 3.00\text{ \AA}$, $\varepsilon \approx 2\text{--}4$).
+2. **Stage 2 — Non-Parametric B-Factor and Electron Density Filtering:** Excludes thermally disordered residues using Tukey IQR fences ($B > Q_3 + \alpha \cdot \text{IQR}$) and verifies experimental density support using Fisher $z$-transformed RSCC ($z = \frac{1}{2}\ln\frac{1+\text{CC}'}{1-\text{CC}'}$, $Z_{\text{score}} \ge -3.0$), combined with a 70-metal coordination screen.
+3. **Stage 3 — Biochemical Protonation Verification:** Evaluates proton retention at physiological pH via upward $\mathrm{p}K_a$ shifts ($\Delta \mathrm{p}K_a \ge +2.0$, local $\mathrm{p}K_a \ge 6.5\text{--}10.2$).
+4. **Stage 4 — Benchmark Calibration:** Validation against reference atomic-resolution crystal structures (`1KZK` HIV-1 Protease, `1OEW` Endothiapepsin, `2DSX` Rubredoxin, `1FKN` BACE-1, `4ZM7` Aminopeptidase).
 
 ---
 
-## 👨‍🔬 Scientific Leadership & Contact
+## Companion Software
 
-- **Lead Researcher:** Suleiman M Hajizadeh  
-  *Institute of Molecular Biology, Ministry of Science and Education of the Republic of Azerbaijan*  
-  *Western Caspian University, Baku, Azerbaijan*
-- **Scientific Advisor & Co-Author:** Garib N Murshudov  
-  *MRC Laboratory of Molecular Biology (LMB), Cambridge Biomedical Campus, Cambridge, United Kingdom*
-- **Locations:** Baku, Azerbaijan · Cambridge, United Kingdom
-- **Documentation (Read the Docs):** 📖 **[https://project-carbox.readthedocs.io/en/latest/](https://project-carbox.readthedocs.io/en/latest/)**
-- **Public Interactive Portal:** 🌐 **[https://project-carbox.github.io/](https://project-carbox.github.io/)**
-- **Data & Repository Access Requests:** 📧 **[suleyman.hacizade1@gmail.com](mailto:suleyman.hacizade1@gmail.com?subject=Access%20Request%20-%20Project%20Carbox%20Private%20Data)**
+- [CarboxMol Organization (`github.com/carboxmol`)](https://github.com/carboxmol): 3D macromolecular crystallography workbench, desktop GUI, and CLI.
+- [CarboxMol Web Studio (`carboxmol.github.io`)](https://carboxmol.github.io): Browser-based 3D crystallographic inspection and electron density contouring.
 
 ---
 
-<div align="center">
-  <sub>© 2026 Suleiman M Hajizadeh &amp; Garib N Murshudov · Project Carbox</sub>
-</div>
+## Authors and Contact
+
+- **Suleiman M. Hajizadeh**  
+  Institute of Molecular Biology, Ministry of Science and Education of the Republic of Azerbaijan; Western Caspian University, Baku, Azerbaijan
+- **Prof. Garib N. Murshudov**  
+  MRC Laboratory of Molecular Biology (LMB), Cambridge Biomedical Campus, Cambridge, United Kingdom
+- **Documentation:** [https://project-carbox.readthedocs.io/en/latest/](https://project-carbox.readthedocs.io/en/latest/)
+- **Web Portal:** [https://project-carbox.github.io/](https://project-carbox.github.io/)
+- **Contact:** [suleyman.hacizade1@gmail.com](mailto:suleyman.hacizade1@gmail.com)
