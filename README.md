@@ -1,4 +1,4 @@
-# Project Carbox — Organization Profile
+# Project Carbox - Organization Profile
 
 This repository contains the public organization profile and data governance notice for [Project Carbox](https://github.com/project-carbox).
 
